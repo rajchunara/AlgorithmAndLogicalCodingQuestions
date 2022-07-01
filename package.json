@@ -1,0 +1,15 @@
+{
+  "name": "algorithm-and-logical-coding-questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "leetCode.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
